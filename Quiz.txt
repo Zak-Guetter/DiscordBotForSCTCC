@@ -1,0 +1,18 @@
+Title: c#
+Question: syntax
+Answer: 0
+Question: syntax
+Answer: 0
+Question: syntax
+Answer: 0
+Question: syntax
+Answer: 0
+Question: syntax
+Answer: 0
+End;
+Title: Java
+Question: What is the distance to the sun in oogle boogles?
+Answer: 1000
+Question: Why does programming rock?
+Answer: Just does
+End;
